@@ -7,12 +7,6 @@ then run pip install pyqt5
 
 # Install git
 
-go to https://gitforwindows.org/ and click install,
+go to https://git-scm.com/download/win and install the 64 bit installer,
 go through the installer,
-open CMD and type "git version",
-To enable Git in VS Code on Windows:
-
-    Go to File > Preferences
-    Go to Settings
-    Type Git: Enabled in the search bar
-    Make sure that the box is ticked
+And then all you need to do is make a GitHub account and enable git in vscode by clicking the sources tab in vscode 
